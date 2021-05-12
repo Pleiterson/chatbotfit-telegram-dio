@@ -3,7 +3,8 @@ const dialogflow = require('./dialogflow');
 const youtube = require('./youtube');
 
 // token recebido pelo bot father
-const token = 'COLOQUE O SEU TOKEN AQUI';
+// const token = 'COLOQUE O SEU TOKEN AQUI';
+const token = '1598065840:AAGNmZtxx1zIvaPWBiG8jUYSulx3UAHemQg';
 
 // nova instância do telegram
 const bot = new TelegramBot(token, { polling: true });

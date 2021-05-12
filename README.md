@@ -24,6 +24,12 @@ Curso do Bootcamp Node.JS Web Developer da [Digital Innovation One](https://digi
 
 Nesse Labs você deve desenvolver e entregar um projeto de “Chatbot no Telegram com JavaScript e NodeJS” ao qual você praticará e aplicará os conceitos de integração e buscas de vídeos de exercícios físicos no YouTube utilizando uma plataforma de entendimento de linguagem natural chamada DialogFlow. Demonstre toda sua capacidade criativa para transformar a base do projeto apresentada nesta sessão em um desenvolvimento inovador.
 
+Para executar você deve ter o BotFather do Telegram criado em seu perfil. Depois digite o comando abaixo no projeto e abra a conversa criada com o BotFather criada.
+
+```
+node index.js
+```
+
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

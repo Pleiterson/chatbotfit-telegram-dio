@@ -1,12 +1,12 @@
 {
-  "type": "BAIXE",
-  "project_id": "O",
-  "private_key_id": "SEU",
-  "private_key": "ARQUIVO",
-  "client_email": "NO",
-  "client_id": "PAINEL",
-  "auth_uri": "DO",
-  "token_uri": "GOOGLE",
-  "auth_provider_x509_cert_url": "CLOUD",
-  "client_x509_cert_url": "PLATFORM"
+  "type": "service_account",
+  "project_id": "plei-dio-afyx",
+  "private_key_id": "b5a016182570f1fa26e444191fa6cbffcbffb138",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDU/pwaI0CNSnDG\n4E8j6Sw8dStOS1ROs8CqIxY26lC35qDI+sSvkJrxphAxcR+P7rS1NtvmGcaU4Dtb\nM20Yi1gfiwAaOeIyaQnxvgXqzLcy0llBaphJcztTV0y5d0bAl/e5kHNhZrbLCskR\nqj7qHgPWpQwsgmGcpStabpa4cd4Ywgm94IWUm8ZB0rgH1oubKOirviTq/w2DQ0qK\nrRTDJlmZjkKOQD0IBcpLS74PZDCe+Wf1Cx8rrbqpd+rGzMJ+r52znZvpduFRZdz8\nbwfOE5ddqQbaq5MBJ23jIEvYi99SQH+xuTjRdydkIoQdlfJL09HY675abx60CJpT\n7ELxzH6FAgMBAAECggEADthbGXBFDsP2NcpLAcn96Q3SkZ+q9dxN7J3K7dNpglPK\n948Q19q4jeig3s1PYZkF086Jx5Ea1+QEBxB/xVLq9rHZtTo9E33iMUzo/Ss9BogG\nLArJp+7l3uJqCNAxKHm/DJoujIab7W1oQ7itr2QdqN9yiISi2IfjjGdCToMzM17s\nMl/+vcI0VZPWXznQUrS1ak4iZPm88bRMP+zoqqMBSJOI0w5MbbKFTCzCkLVdF8/6\nzf5hnvBUnDEtl5YZCzdnELGeWUMY2C8xXXNO5F6TI4cv1L1cHwvzI0LTDxv945/d\nuGGG2LsPuZfONB0W7hDQ5R0ru4bClDfuf24JaUWkwQKBgQD4ALumQsN6dD3olS51\nNiYIq4RVzGZ+h9qz0KDToqGNHYkfoervFppQlCQkDU8yFJrOEtpXDHZxs/KDOenC\nkaGi6jb8hbt61FGgkjUv84iTZr+p5NKPR6yKOUF39iyziYndPniq7RorMwDetMvC\nDvyGMLvBhGy20ZWm/ecfv3ZyRQKBgQDb3OIBB9ckWHOQfd6EvwvAWUAsSdAzqOkd\n5R+npRyhIQbr4b9w1NNejPapJ/VeMxpuAHHJoZf1xdpE1GAntuPYkNdQG0E3T5UU\ntoWKeTVkYmNIet/DAv5DQCvmV0A/jCRzGzSamY/rKNlb/qp+E1qVWKCz88ilOiUe\nqqkFsxi/QQKBgQDu753bGHXHM9k1jQ0+hlXsgns0QoL5IyCVn8pjPEvTboJfRJvZ\nj/hK6/9J8Ly9blabdlSAC5TOBWYAAjryZ2bIVEl3z8yKEac3QcYWldae1R6Rq9El\nlBNq9LDbyATXUQrPatHNNDTDLBeJebzaEaBAFRG/5zrqhFBfnD4iO0/91QKBgQCZ\nFs8jSpNKUnB9XrdPFTuYfkzJyce4ANf5Ie4NrFEn/Lg2DKVhaj+XKW4i0JjwM4Mm\nrxaMAAGwd0iI/pvJa3Zw+EGEHMYnPjmfB4wqpEVCFaPt9ujRf8cNiqRGqeApn2pN\n39acA2sLohDfFo8eZFmBfgm/43KFYdww40H3nwIPQQKBgFykImDM0pqhjlpfffpa\n6y/zB3zd/b5dGRM+AHBkZXswhEW0PYsyHDgsrnm3AcgcVXFZGEvpaA1wLjANdJPc\n7WmDeVtt7Ws23LCVbM3BNxiF+SkrkGKGLq7/zz0yrZjV1BkV9aKT5HmKOohh2zLZ\no3pwsuNjXYpas+ZUsS7J4NTJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-plei-bot@plei-dio-afyx.iam.gserviceaccount.com",
+  "client_id": "113435780355623305008",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-plei-bot%40plei-dio-afyx.iam.gserviceaccount.com"
 }
